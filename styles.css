@@ -1,0 +1,115 @@
+html {
+		background-color: rgb(30,30,30);
+		color: rgb(60,137,214);
+		font: normal 20px Sans-serif;
+}
+		
+body {
+		margin: 0 auto;
+		padding: 0;
+}
+		
+header {
+		width: 70%;
+		margin: 0 auto;
+}
+
+section {
+		width: 70%;
+		margin: 55px auto;
+		background-color: rgb(45,45,45);
+		padding: 15px;
+		
+}
+	
+h1 {
+		margin: 2px;
+}
+
+h2 {
+		color: rgb(187,98,50);
+		margin: 2px;
+		}
+		
+p {
+		margin: 2px;
+}
+
+hr {
+	margin-top: 15px;
+}
+
+#avi {
+		border-radius: 50%;
+		display: inline-block;
+		float: left;
+		padding-right: 5px;
+}
+
+.bio {
+		display: inline-block;
+		margin: 5px;
+		padding-left: 5px;
+}
+		
+.bio h1 {
+		color: rgb(187,98,50);
+}
+
+.bio p {
+		
+}
+
+table {
+	width: 100%;
+	height: auto;
+}
+
+th {
+	display: inline;
+}
+
+.pro-sum {
+}
+
+#company-name {
+	color: rgb(60,137,214);
+}
+
+#position {
+	color: rgb(187,98,50);
+}
+
+
+#emp-date {
+	float: right;
+	
+}
+
+#emp-loc {
+	margin-left: 20px;
+	float: right;
+	color: rgb(187,98,50);
+}
+
+.edu {
+			
+}
+
+.exp {
+			
+}
+
+.right {
+}
+
+li {
+	padding: 3px 15px 3px 15px;
+	font-size: 18px;
+	color: #f1f1f1;
+}
+
+table .skill-table {
+	display: block;
+	color:blue;
+}
