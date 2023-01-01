@@ -16,7 +16,7 @@ header {
 
 section {
 		width: 70%;
-		margin: 55px auto;
+		margin: 15px auto;
 		background-color: rgb(45,45,45);
 		padding: 15px;
 		
@@ -60,7 +60,7 @@ hr {
 		
 }
 
-table {
+#table-1 {
 	width: 100%;
 	height: auto;
 }
@@ -109,7 +109,17 @@ li {
 	color: #f1f1f1;
 }
 
-table .skill-table {
-	display: block;
-	color:blue;
+#skill-tech {
+	color: #f1f1f1;
+	border: 1px solid white;
+	display: inline;
+	float: left;
+}
+
+.skills {
+	width: 75%;
+	margin: 0 auto;
+	border: 5px solid white;
+	overflow: hidden;
+	background-color: blue;
 }
