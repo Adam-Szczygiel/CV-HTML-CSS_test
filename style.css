@@ -1,0 +1,80 @@
+* {
+  background-color: rgba(53,54,58);
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+main {
+  margin-bottom: 10.5%;
+}
+
+.top-half {
+  color: #fff;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+.header-title h1 {
+  font-size: 72px;
+  margin-top: 100px;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+.header-description h3 {
+  font-size: 12px;
+  margin-top: -25px;
+  text-transform: uppercase;
+  letter-spacing: 7.5px;
+
+}
+
+.header-info h3 {
+  font-size: 12px;
+  margin-top: -05px;
+  text-transform: uppercase;
+  letter-spacing: 7.5px;
+
+}
+.Bot-half {
+  color: #fff;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+hr {
+  margin-top: 5%;
+}
+
+.Bot-half h3{
+  margin-top: 5px;
+  text-transform: uppercase;
+}
+
+.edu {
+  margin-top: 25px;
+}
+.loc {
+  font-size: 15px;
+  color: royalblue;
+  margin-bottom: 10px;
+}
+
+.edu-loc li{
+  margin-top: 2.5px;
+}
+
+.link-section {
+  margin: 0 auto;
+  padding: 0;
+  background-color: dimgray;
+  height: 200px;
+  width: 100%;
+}
